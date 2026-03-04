@@ -3,4 +3,6 @@
 data/*
 docs/*
 notebooks/Q1/checkpoints/*
+notebooks/Q2/outputs/*
+notebooks/Q2/*.py
 README.md
