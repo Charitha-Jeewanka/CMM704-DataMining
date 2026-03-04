@@ -1,0 +1,6 @@
+.venv
+.env
+data/*
+docs/*
+notebooks/Q1/checkpoints/*
+README.md

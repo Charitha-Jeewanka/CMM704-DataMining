@@ -1,0 +1,24 @@
+# Use the special index for the torch suite:
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+# Core Deep Learning
+torch
+torchvision
+torchaudio
+
+# Data & Science
+numpy
+pandas
+scipy
+scikit-learn
+
+# Visualization & Images
+matplotlib
+seaborn
+opencv-python
+Pillow
+scikit-image
+
+# Utilities
+ipykernel
+tqdm
